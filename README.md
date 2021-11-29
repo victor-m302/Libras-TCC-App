@@ -2,7 +2,7 @@
 Aplicativo desenvolvido em React-Native para o Trabalho Final de Conclusão de Curso (TCC).
 
 
-<img src="image url" alt="alt text" title="image Title" />
+<img src="/app-screenshots/capa" alt="alt text" title="image Title" />
 <img src="image url" alt="alt text" title="image Title" />
 <img src="image url" alt="alt text" title="image Title" />
 <img src="image url" alt="alt text" title="image Title" />
