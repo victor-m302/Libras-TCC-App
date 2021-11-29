@@ -6,7 +6,7 @@ Aplicativo desenvolvido em React-Native para o Trabalho Final de Conclusão de C
 
 
 
-![A nice image.](app-screenshots/capa.png){width=50%}
+![A nice image.](app-screenshots/capa.png){width=50px}
 <img src="image url" alt="alt text" title="image Title" />
 <img src="image url" alt="alt text" title="image Title" />
 <img src="image url" alt="alt text" title="image Title" />
