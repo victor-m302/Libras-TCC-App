@@ -1,5 +1,40 @@
 # Libras-TCC-App
 Aplicativo desenvolvido em React-Native para o Trabalho Final de Conclusão de Curso (TCC).
+O aplicativo utiliza a plataforma Expo.
+
+
+## Como iniciar o projeto?
+
+1. Abra o terminal e digite: `npm i`
+
+2. Após a instalação das dependências, abra o arquivo `env.js`, localizado na pasta "config"
+
+3. No arquivo `env.js`, solicite o link do servidor para alterar esse dado: 
+
+```javascript
+const link = 'http://ec2-52-91-219-171.compute-1.amazonaws.com:5000/'
+```
+Obs: Toda vez que o servidor é desligado, o link é alterado na vez seguinte.
+
+4. É recomendado fazer um teste de conexão, que pode ser feito da seguinte forma:
+
+      4.1)Abra o Insomnia ou Postman
+
+      4.2) Faça um request do tipo GET
+
+      4.3) Usando o link do servidor fornecido:
+
+`http://ec2-xx-xx-xx-xx.compute-1.amazonaws.com:5000/testGet`
+
+A resposta que indica sucesso é o retorno da mensagem "Hello Route Get"
+
+5. No terminal, digite: `npm run start`
+
+
+
+
+
+
 
 ## Tela de Inicialização: Splash Screen
 
